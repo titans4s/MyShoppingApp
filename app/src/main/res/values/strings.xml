@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">seller</string>
+    <string name="title_seller">Seller Registration Form</string>
+    <string name="seller_name">Seller Name</string>
+    <string name="seller_phone">Phone</string>
+    <string name="seller_mail">Email</string>
+    <string name="seller_password">Password</string>
+    <string name="seller_address">Address</string>
+    <string name="btn_reg">Register</string>
+    <string name="btn_already">Already have an account</string>
+    <string name="title_seller_login">Seller Login Form</string>
+    <string name="btn_login">Login</string>
+    <string name="title_activity_seller_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">LogOut</string>
+
+</resources>
