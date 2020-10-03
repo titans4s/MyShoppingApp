@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Login&amp;signup</string>
+    <string name="adwc">Add New Product</string>
+    <string name="tx">Find, Discover, Choose and Buy anything online.</string>
+    <string name="ard">Already have an Account? Login</string>
+    <string name="join">Join Now</string>
+
+    <string name="mail">Email Address</string>
+    <string name="name">Usename</string>
+    <string name="password">Password</string>
+    <string name="createacc">Create Account</string>
+
+    <string name="Remember">Remember me</string>
+    <string name="Forget">Forget Password?</string>
+    <string name="Login">Login</string>
+    <string name="iamadmin">I\'m an Admin?</string>
+    <string name="iamadminot">I\'m not an Admin?</string>
+
+    <string name="wonmbtn">Women\'s Clothing</string>
+    <string name="menbtn">Men\'s Clothing</string>
+    <string name="kidsbtn">Kid\'s Clothing</string>
+    <string name="accesbtn">Accessories</string>
+    <string name="logoutbtn">Logout</string>
+    <string name="viewpbtn">Check New Orders</string>
+
+</resources>
